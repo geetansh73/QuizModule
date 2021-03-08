@@ -1,60 +1,60 @@
 var questions=[
     {
-title:"A complete graph can have",
+title:"1. A complete graph can have",
 options:["n2 spanning trees","nn - 2 spanning trees","nn - 3 spanning trees","nn - 4 spanning trees"],
 correct: "nn - 2 spanning trees",
 score: 1
     },
         {
-title:"What is the full form of CSS",
+title:"2. What is the full form of CSS",
 options:["Cascading Styles Sheets","Cascading Sheets styles","Color Styles Sheets","Cascading Styles Set"],
 correct: "Cascading Styles Sheets",
 score: 1
     },
       {
-title:"Which of the following is a valid type of function javascript supports?",
+title:"3. Which of the following is a valid type of function javascript supports?",
 options:["named function","anonymous function","Both of the above","None of the above"],
 correct: "Both of the above",
 score: 1
     },
           {
-title:"Which built-in method returns the calling string value converted to lower case?",
+title:"4. Which built-in method returns the calling string value converted to lower case?",
 options:["toLowerCase()","toLower()","changeCase(case)","None of the above"],
 correct: "toLowerCase()",
 score: 1
     },
    {
-title:"Which of the following function of String object returns the characters in a string beginning at the specified location through the specified number of characters?",
+title:"5. Which of the following function of String object returns the characters in a string beginning at the specified location through the specified number of characters?",
 options:["slice()","split()","substr()","search()"],
 correct: "substr()",
 score: 1
     },
    {
-title:"Which type of JavaScript language is",
+title:"6. Which type of JavaScript language is",
 options:["Object-Oriented","Object-Based","Assembly-language","High-level"],
 correct: "Object-Based",
 score: 1
     },
        {
-title:"The function and var are known as",
+title:"7. The function and var are known as",
 options:["Keywords","Data types","Declaration statements","Prototypes"],
 correct: "Declaration statements",
 score: 1
     },
      {
-title:"Which one of the following is the correct way for calling the JavaScript code?</h2>",
+title:"8. Which one of the following is the correct way for calling the JavaScript code?</h2>",
 options:["Preprocessor","Triggering Event","RMI","Function/Method"],
 correct: "Function/Method",
 score: 1
     },
          {
-title:"Which of the following number object function returns the value of the number?",
+title:"9. Which of the following number object function returns the value of the number?",
 options:["toString()","valueOf()","toLocaleString()","toPrecision()"],
 correct: "valueOf()",
 score: 1
     },
              {
-title:"In JavaScript the x===y statement implies that",
+title:"10. In JavaScript the x===y statement implies that",
 options:["Both x and y are equal in value, type and reference address as well.","Both are x and y are equal in value only.","Both are equal in the value and data type.","Both are not same at all."],
 correct: "Both are equal in the value and data type.",
 score: 1
